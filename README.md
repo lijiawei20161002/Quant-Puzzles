@@ -1,2 +1,1 @@
-This repo contains puzzles and answers from 
-`A Practial Guide to Quantitative Finance Interviews`
+This repo contains quant interview puzzles and answers I collect, from \url{A Practial Guide to Quantitative Interviews}{https://academyflex.com/wp-content/uploads/2024/03/a-practical-guide-to-quantitative-finance-interviews.pdf}. 
